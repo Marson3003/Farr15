@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+body {
+    background-color: #f1f1f1;
+    color: rgb(17, 15, 15);
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+}
+p {font-family: 'Lucida Sans', 'Lucida Sans Regular',
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+     Verdana, sans-serif;
+     color: blue;
+
+}
+    /*font-family: 'Lucida Sans', 'Lucida Sans Regular',
+     'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+      Verdana, sans-serif;
+}
+h1 {
+color: rgb(13, 226, 226);
+}
+h2 {
+    color: dimgray;
+}
+
+/* Box Model */
+
+
+.jpg{
+    width: 200px;
+    height: 150px;
+    border: 5px solid red;
+}
+img{
+    width: 50%;
+    height: 50%;
+    object-position: left top;
+}
+.conteiner {
+    max-width: 90%;
+margin: auto;
+}
+.social {
+    background: rgb(0, 247, 255);
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.email {
+    background: coral;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.fonts {
+    background: rgb(0, 247, 255);
+    padding: 15px;
+}
+
+a:hover{
+    text-decoration: solid;
+}
+a:active {
+    color: blue;
+}
